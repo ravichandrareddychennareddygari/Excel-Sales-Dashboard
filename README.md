@@ -40,10 +40,19 @@ The dashboard serves as a central hub for monitoring sales performance, offering
 ## How to Use
 
 1.  Clone or download this repository.
-2.  Open the `Sales-Dashboard.xlsx` file in Microsoft Excel.
+2.  Open the `Capstone_sales_project_Excel.xlsx` file in Microsoft Excel.
 3.  Navigate between the different dashboards using the buttons on the left.
 4.  Use the filters at the top to interact with the data and gain specific insights.
 
 ---
 
 **Note:** This project demonstrates a full data analysis workflow—from raw data to a professional, interactive dashboard—showcasing strong skills in data management, visualization, and report design using a common business tool.
+
+
+
+
+<img width="1915" height="714" alt="Screenshot 2025-09-05 164159" src="https://github.com/user-attachments/assets/8c8f36ea-a448-498b-981b-541b28304b9f" />
+<img width="1879" height="717" alt="Screenshot 2025-09-05 164134" src="https://github.com/user-attachments/assets/ae66cf80-9756-433c-a78b-d7604a51b384" />
+<img width="1890" height="713" alt="Screenshot 2025-09-05 164103" src="https://github.com/user-attachments/assets/b8562847-37f4-4f6e-b3a4-144dd02564cf" />
+<img width="1887" height="717" alt="Screenshot 2025-09-05 164042" src="https://github.com/user-attachments/assets/3e63e2a7-a3cd-459b-9f49-e9f00ee41e73" />
+<img width="1913" height="766" alt="Screenshot 2025-09-05 164009" src="https://github.com/user-attachments/assets/c837a21d-9d18-462a-820e-ceee77f42652" />
